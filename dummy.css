@@ -71,10 +71,10 @@ animation: tail 4.5s ease-in-out infinite,
              falling 2.75s ease-in-out infinite;
 }
 
-/* .pink1{
+.pink1{
   position: absolute;
-  left: 59rem;
-} */
+  left: 75rem;
+}
 
 .pink2{
   position: absolute;
@@ -567,11 +567,11 @@ padding-right: 12rem;
 
 }
 
-@media only screen and (max-width: 800px) {
 
 
 
-@media only screen and (max-width: 800px) {
+
+@media only screen and (max-width: 970px) {
   .navbar p {
     font-size: 20px;
   }
@@ -601,7 +601,14 @@ padding-right: 12rem;
     display: block;
     cursor: pointer;
   }
+
+.colpara{
+  padding-left: 5rem;
 }
+
+
+
+  }
 
 
 
@@ -614,4 +621,8 @@ padding-right: 12rem;
   nav ul li{
     font-size: 20px;
   }
+
+
+
+
 }
