@@ -71,10 +71,10 @@ animation: tail 4.5s ease-in-out infinite,
              falling 2.75s ease-in-out infinite;
 }
 
-.pink1{
+/* .pink1{
   position: absolute;
   left: 59rem;
-}
+} */
 
 .pink2{
   position: absolute;
